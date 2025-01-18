@@ -43,7 +43,7 @@ This project demonstrates an automated solution for extracting structured inform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/Named-Entity-Recognition-using-Azure-OpenAI-Models-Loss-Run-Reports-Insurance.git
+   git clone https://github.com/Sushant369/Named-Entity-Recognition-using-Azure-OpenAI-Models-Loss-Run-Reports-Insurance.git
    cd Named-Entity-Recognition-using-Azure-OpenAI-Models-Loss-Run-Reports-Insurance
    ```
 
