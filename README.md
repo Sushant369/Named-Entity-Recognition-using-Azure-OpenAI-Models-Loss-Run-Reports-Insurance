@@ -149,21 +149,5 @@ The JSON schema ensures consistency and accuracy of the extracted data:
 
 ---
 
-## Future Enhancements
-
-- **Improved PDF Parsing**:
-  - Enhance handling of complex table structures in PDFs.
-
-- **Error Handling**:
-  - Add robust error handling for unexpected input formats.
-
-- **Visualization**:
-  - Integrate basic data visualization for claims analysis.
-
----
-
-## Contact
-
-For inquiries or support, contact [Your Name] at [Your Email].
-```
+## Visualization
 
