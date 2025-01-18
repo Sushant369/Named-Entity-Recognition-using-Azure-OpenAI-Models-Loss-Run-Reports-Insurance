@@ -151,3 +151,5 @@ The JSON schema ensures consistency and accuracy of the extracted data:
 
 ## Visualization
 
+![image](https://github.com/user-attachments/assets/a8eea717-1baa-42e9-9771-76840076934a)
+
